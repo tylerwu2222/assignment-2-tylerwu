@@ -1,0 +1,10 @@
+#add-task-btn{
+    margin-top: 3px;
+    padding: 7px;
+    border-radius: 1rem;
+}
+
+#add-task-btn:hover{
+    background-color: rgb(224, 224, 224);
+    cursor: pointer;
+}

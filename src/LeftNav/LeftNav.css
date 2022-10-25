@@ -1,0 +1,70 @@
+/* left nav */
+#left-nav-section {
+    background-color: #fefbf2;
+    /* background-color: #c5b78f; */
+    color: #000;
+    height: 100vh;
+    width: 400px;
+}
+
+.left-nav-list {
+    margin: 0;
+    list-style-type: none;
+}
+
+.left-nav-list-main {
+    padding: 2rem;
+}
+
+.left-nav-list>li {
+    padding: 10px;
+}
+
+.left-nav-list>li>span {
+    padding: 10px;
+    border-radius: 1rem;
+}
+
+.left-nav-list>li>span:hover {
+    background-color: #FAECC3;
+    cursor: pointer;
+}
+
+.task-count {
+    color: #7e7d79;
+    padding-left: 0.5rem;
+}
+
+.left-nav-icon {
+    height: 1rem;
+    width: auto;
+    padding: 0 1rem 0 0;
+}
+
+.left-nav-hr {
+    border: 1px solid #dddad2;
+}
+
+.blue-icon {
+    filter: invert(50%) sepia(64%) saturate(857%) hue-rotate(189deg) brightness(98%) contrast(85%);
+}
+
+.green-icon {
+    filter: invert(55%) sepia(38%) saturate(492%) hue-rotate(83deg) brightness(102%) contrast(92%);
+}
+
+.purple-icon {
+    filter: invert(68%) sepia(82%) saturate(6414%) hue-rotate(241deg) brightness(86%) contrast(85%);
+}
+
+.yellow-icon {
+    filter: invert(74%) sepia(58%) saturate(934%) hue-rotate(1deg) brightness(103%) contrast(103%);
+}
+
+.red-icon {
+    filter: invert(28%) sepia(79%) saturate(1894%) hue-rotate(343deg) brightness(93%) contrast(86%);
+}
+
+.grey-icon {
+    filter: invert(70%) sepia(26%) saturate(0%) hue-rotate(223deg) brightness(99%) contrast(99%);
+}
